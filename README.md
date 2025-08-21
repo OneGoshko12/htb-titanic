@@ -1,7 +1,7 @@
 # Hack The Box — Titanic
 
 <div align="center">
-  <img src="assets/HTB/1.png" width="250">
+  <img src="Titanic/assets/HTB/1.png" width="250">
 </div>
 
 Writeup for the Hack The Box machine **Titanic** (Linux, Easy/Medium).  

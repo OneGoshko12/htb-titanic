@@ -228,6 +228,7 @@ And we find some password here:
 <img src="assets/HTB/36.png" width="350">
 
 <br><img src="assets/HTB/37.png">
+
 Great, let's dig in!
 
 <br><img src="assets/HTB/38.png" width="300">

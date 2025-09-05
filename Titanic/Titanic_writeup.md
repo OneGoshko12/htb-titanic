@@ -359,7 +359,7 @@ That will send us a shell, if we’re listening...
 <br><b>**Tips</b>:
 
 - <u>Start your listener before</u> triggering <b>magick</b> with `date`.
-<br>
+
 - <b>Wait the full 30 seconds</b> ( I thought I had made a mistake at first).
 
 <br><img src="assets/HTB/60.png" width="400">

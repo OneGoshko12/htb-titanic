@@ -71,7 +71,7 @@ It’s a good idea to also take a look at the <i>/etc/hosts</i> file.
 <img src="assets/HTB/11.png">
 
 Here, we see there is a second host name: <i>dev.titanic.htb</i>.  
-I’m going to add it to the hosts file.
+I’m going to add it to my hosts file.
 
 <img src="assets/HTB/12.png" width=300>
 
